@@ -1,4 +1,0 @@
-[project]
-name = "lauetoolsnn"
-authors = [{name = "Ravi PURUSHOTTAM", email = "purushot@esrf.fr"}]
-dynamic = ["version", "description"]
